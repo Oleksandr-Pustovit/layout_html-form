@@ -5,5 +5,9 @@
 
 .form-field {
   display: block;
-  margin: 10px;
+  margin-bottom: 10px;
+}
+
+.form-field:last-child {
+  margin: 0;
 }
